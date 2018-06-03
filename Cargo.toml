@@ -2,5 +2,8 @@
 name = "dropbox"
 version = "0.1.0"
 authors = ["Joseph Murphy <air.jmurph@gmail.com>"]
+description = "A best effort Dropbox SDK developed for Spacebox"
+license = "MIT"
+readme = "README.md"
 
 [dependencies]
